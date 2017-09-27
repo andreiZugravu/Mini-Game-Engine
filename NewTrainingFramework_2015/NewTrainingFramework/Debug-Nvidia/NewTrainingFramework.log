@@ -1,0 +1,17 @@
+﻿  Shader.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+  SceneObject.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+  Generating Code...
+  Compiling...
+  ResourceManager.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Terrain.cpp
+  SkyBox.cpp
+  SceneManager.cpp
+  NewTrainingFramework.cpp
+  Fire.cpp
+  NewTrainingFramework.vcxproj -> D:\proiect_2015 (2)\proiect_2015\NewTrainingFramework_2015\\BIN-Nvidia\NewTrainingFramework.exe
+  NewTrainingFramework.vcxproj -> D:\proiect_2015 (2)\proiect_2015\NewTrainingFramework_2015\\BIN-Nvidia\NewTrainingFramework.pdb (Full PDB)

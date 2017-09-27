@@ -1,0 +1,87 @@
+﻿  stdafx.cpp
+  Camera.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\Math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+  Fire.cpp
+  Model.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\newtrainingframework\../Utilities/Math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+Model.cpp(15): warning C4390: ';': empty controlled statement found; is this the intent?
+Model.cpp(141): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(164): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(186): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(213): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(236): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(258): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(285): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(308): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(330): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(357): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(380): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(402): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(429): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+Model.cpp(452): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  NewTrainingFramework.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\newtrainingframework\../Utilities/Math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+NewTrainingFramework.cpp(112): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+NewTrainingFramework.cpp(119): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+NewTrainingFramework.cpp(126): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  ResourceManager.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\newtrainingframework\../Utilities/Math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+  SceneManager.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\Math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+SceneManager.cpp(77): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SceneManager.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SceneManager.cpp(107): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(108): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(109): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(116): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(117): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(118): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(125): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(126): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(127): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(137): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(142): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(147): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(152): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(244): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+SceneManager.cpp(322): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(325): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(328): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(343): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(346): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(349): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(364): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(367): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(370): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(383): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+SceneManager.cpp(440): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SceneManager.cpp(449): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SceneManager.cpp(450): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+SceneManager.cpp(451): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SceneObject.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\Math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+  Shader.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\Math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+  Shaders.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\Math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+  SkyBox.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\Math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+SkyBox.cpp(74): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Terrain.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\Math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+Terrain.cpp(76): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+Terrain.cpp(91): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+Terrain.cpp(92): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+Terrain.cpp(252): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+Terrain.cpp(253): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  Texture.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\Math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+  Generating code
+  1559 of 1560 functions (99.9%) were compiled, the rest were copied from previous compilation.
+    1531 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NewTrainingFramework.vcxproj -> D:\proiect_2015 (2)\proiect_2015\NewTrainingFramework_2015\\BIN-Nvidia\NewTrainingFramework.exe
+  NewTrainingFramework.vcxproj -> D:\proiect_2015 (2)\proiect_2015\NewTrainingFramework_2015\\BIN-Nvidia\NewTrainingFramework.pdb (Full PDB)

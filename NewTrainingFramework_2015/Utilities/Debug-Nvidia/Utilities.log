@@ -1,0 +1,6 @@
+﻿  Math.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\math.cpp(10): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\math.cpp(109): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\math.cpp(221): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+  Utilities.vcxproj -> D:\proiect_2015 (2)\proiect_2015\NewTrainingFramework_2015\\BIN-Nvidia\Utilities.lib

@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  esShader.cpp
+  esUtil.cpp
+  esUtil_win.cpp
+  Math.cpp
+d:\proiect_2015 (2)\proiect_2015\newtrainingframework_2015\utilities\Math.h(133): warning C4522: 'Vector4': multiple assignment operators specified
+Math.cpp(10): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+Math.cpp(109): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+Math.cpp(221): warning C4244: 'return': conversion from 'double' to 'GLfloat', possible loss of data
+  TGA.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1357,5): warning MSB8012: TargetPath(D:\proiect_2015 (2)\proiect_2015\NewTrainingFramework_2015\\BIN-Nvidia\Utilities.lib) does not match the Library's OutputFile property value (D:\proiect_2015 (2)\proiect_2015\NewTrainingFramework_2015\BIN-Nvidia\UtilitiesR.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1359,5): warning MSB8012: TargetName(Utilities) does not match the Library's OutputFile property value (UtilitiesR). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  Utilities.vcxproj -> D:\proiect_2015 (2)\proiect_2015\NewTrainingFramework_2015\\BIN-Nvidia\Utilities.lib
